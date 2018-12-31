@@ -1,2 +1,2 @@
 # project-arthur
-Avalon board game data analytics tool
+Avalon is a social deduction game where each player are split into two teams, the good guys and the bad guys. The good guys need to figure out the bad guys and the bad guys need to deceive the good guys. There are seven different types of roles and the game can support five to ten players. The iPython notebook is a way to crunch all the data recorded of the games my friends and I play into meaningful statistics. The full rules of the games can be read [here](http://upload.snakesandlattes.com/rules/r/ResistanceAvalon.pdf).
